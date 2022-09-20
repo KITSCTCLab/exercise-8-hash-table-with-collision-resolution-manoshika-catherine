@@ -1,7 +1,11 @@
 import re
 
 def display_hash(hashtable) -> None:
-	# Write your code here
+	if key value in range(len(hashtable));
+	t=hashtable(keyvalue)
+	print(keyvalue,ends='')
+	for element in t
+	return keyvalue(
 
 def Hashing(keyvalue) -> int:
 	return keyvalue % len(HashTable)
