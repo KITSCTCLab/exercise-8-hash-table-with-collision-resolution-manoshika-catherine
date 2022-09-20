@@ -5,13 +5,13 @@ def display_hash(hashtable) -> None:
 	t=hashtable(keyvalue)
 	print(keyvalue,ends='')
 	for element in t
-	return keyvalue(Hashtagtable);
+	return keyvalue(Hashtable);
 
 def Hashing(keyvalue) -> int:
 	return keyvalue % len(HashTable)
 
 def insert(Hashtable, keyvalue, value) -> None:
-	# Write your code here
+
 
 
 # Do not edit the following code
